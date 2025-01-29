@@ -1,0 +1,21 @@
+OS : Ubu / fed
+
+Apache webserver:
+
+Setting up of apache web server - done
+Setting up of virtual host - done
+Setting up of ssl (certificate enable / disable ) - done
+Default port to customize port setup - done 
+Webserver security
+Performence tune apache webserver
+Monitor apache webserver
+Apache gui setup
+How to install load modules 
+
+Nginx webserver:(same setup like apache webserver)
+
+Fedora Apache httpd server:
+Setting up of apache web server - done
+Setting up of virtual host - done
+Setting up of ssl (certificate enable / disable ) - done
+Default port to customize port setup - done 
